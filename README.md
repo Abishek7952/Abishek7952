@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm R Abishek!
 
 🎓 I'm an Integrated M.Tech Computer Science student at VIT Chennai, specializing in Business Analytics.  
 💡 Passionate about AI, Machine Learning, and Deep Learning with real-world applications across health, security, and automation.  
