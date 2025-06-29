@@ -1,19 +1,17 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;Cloud+Certified+%E2%98%81%EF%B8%8F+%7C+Full+Stack+Learner;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;Cloud+Certified+%E2%98%81%EF%B8%8F+%7C+Full+Stack+Learner;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 <!-- Big Animated Gradient Name -->
 <h1 align="center">
-  <span style="font-size: 48px; font-weight: bold; background: linear-gradient(to right, #F75C7E, #8A2BE2); -webkit-background-clip: text; color: transparent;">
+  <span style=" font-size: 48px; font-weight: bold; background: linear-gradient(to right, #F75C7E, #8A2BE2); -webkit-background-clip: text; color: blue;">
     👋 I'm <strong>R Abishek</strong>
   </span>
 </h1>
 
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-I'm R Abishek-%23F75C7E?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="R Abishek" />
-</h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Innovating+at+the+Intersection+of+AI,+DevOps+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions.">
@@ -102,7 +100,9 @@
 </p>
 
 ---
-
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-I'm R Abishek-%23F75C7E?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="R Abishek" />
+</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abishek7952&label=Profile+Views&color=brightgreen&style=flat-square" />
 </p>
