@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,fastapi,streamlit,flask,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,fastapi,streamlit,c,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark" alt="Skill Icons" />
 </p>
 
 - **Languages**: Python 🐍, Java ☕, SQL, Bash  
@@ -44,7 +44,7 @@
 - **DevOps**: Docker 🐳, Jenkins, GitHub Actions  
 - **Big Data**: PySpark  
 - **Cloud**: AWS (CCP) ☁️  
-- **Tools**: Git, VS Code, Colab, Render, Heroku
+- **Tools**: Git, VS Code, Colab, Render
 
 ---
 
