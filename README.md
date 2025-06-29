@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,fastapi,streamlit,c,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,dsa,fastapi,streamlit,c,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark" alt="Skill Icons" />
 </p>
 
 - **Languages**: Python 🐍, Java ☕, SQL, Bash  
