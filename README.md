@@ -1,50 +1,86 @@
-# 👋 Hi, I'm R Abishek!
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#e31b6d">R Abishek</span>!
+</h1>
 
-🎓 I'm an Integrated M.Tech Computer Science student at VIT Chennai, specializing in Business Analytics.  
-💡 Passionate about AI, Machine Learning, and Deep Learning with real-world applications across health, security, and automation.  
-👨‍💼 Ex-intern as Web Developer @ Creatah
-☁️ AWS Certified Cloud Practitioner (CCP)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DevOps+Enthusiast;Building+Smart+Apps+with+Real-World+Impact;Let's+Code+the+Future+Together!💡" alt="Typing SVG" />
+</p>
+
+---
+
+## 🎓 About Me
+
+🎓 Integrated M.Tech Computer Science @ **VIT Chennai**  
+📊 Specialization: **Business Analytics**  
+🤖 AI/ML Researcher | DevOps Enthusiast  
+👨‍💼 Ex-Intern: Web Developer @ **Creatah**  
+☁️ **AWS Certified Cloud Practitioner (CCP)**
 
 ---
 
 ## 🚀 Projects & Highlights
-- 🔍 **Fake Account & ID Detection** – Identifying fake accounts and IDs in social media using ML & analytics
-- 🧠 **Breast Cancer Detection** – Multimodal deep learning model + full DevOps deployment (Docker + Jenkins)
-- 🚗 **Real-Time Vehicle Detection** – Object detection using YOLO for smart traffic systems
-- 🧍‍♂️🗣✍ **Parkinson’s Disease Detection** – Multimodal classification using gait, speech, and handwriting data
-- 🎙️ **Tacotron 2 TTS** – Attention-based text-to-speech system using Deep Learning
-- 📄 **Resume Classifier** – ML-based job-fit predictor (Docker + Streamlit + Render + FastAPI)
-- 📈 **Stock Market Predictor** – Forecasting + Web Deployment
-- 💼 **Job Salary Predictor** – Big data pipeline using PySpark
-- 🔐 **Intrusion Detection System** – ML/DL models for anomaly-based cyber threat detection
+
+| 🧠 Project | 📌 Description |
+|-----------|----------------|
+| 🔍 **Fake Account & ID Detection** | ML + Analytics to detect social media fraud |
+| 🧬 **Breast Cancer Detection** | Multimodal DL model + DevOps (Docker + Jenkins) |
+| 🚗 **Real-Time Vehicle Detection** | Smart traffic surveillance using YOLO |
+| 🧍‍♂️🗣✍ **Parkinson’s Detection** | Gait, speech & handwriting-based diagnosis |
+| 🎙️ **Tacotron 2 TTS** | Attention-based deep learning TTS system |
+| 📄 **Resume Classifier** | ML-powered job fit predictor (Docker + FastAPI) |
+| 📈 **Stock Market Predictor** | Time series + Web deployed forecasts |
+| 💼 **Job Salary Predictor** | Big data pipeline with **PySpark** |
+| 🔐 **Anomaly-Based Intrusion Detection** | Cyber threat detection with ML/DL |
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Java, SQL, Bash
-- **Frameworks**: FastAPI, Streamlit, Flask
-- **ML/DL**: Scikit-learn, TensorFlow, Keras, PyTorch, YOLO
-- **DevOps**: Docker, Jenkins, GitHub Actions
-- **Big Data**: PySpark
-- **Cloud**: AWS (Certified CCP)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,aws,docker,git,github,fastapi,streamlit,tensorflow,pytorch,flask,linux,vscode,pyspark" />
+</p>
+
+- **Languages**: Python, Java, SQL, Bash  
+- **Frameworks**: FastAPI, Streamlit, Flask  
+- **ML/DL**: Scikit-learn, TensorFlow, Keras, PyTorch, YOLO  
+- **DevOps**: Docker, Jenkins, GitHub Actions  
+- **Big Data**: PySpark  
+- **Cloud**: AWS (Certified CCP)  
 - **Tools**: Git, VS Code, Google Colab, Render, Heroku
-
----
-
-## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/abishekr316)
-- 🌐 [Instagram](https://www.instagram.com/abishek__r?igsh=MWwzM284MG9ocjNrMw%3D%3D&utm_source=qr)
-- ✉️ [abishekravichandiran7@gmail.com]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishek7952&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishek7952&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek7952&layout=compact&theme=radical" height="165">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek7952&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek7952&theme=radical" height="165">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abishek7952&theme=radical)
+---
 
+## 🌐 Let’s Connect!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abishekr316"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abishekravichandiran7@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/abishek__r?igsh=MWwzM284MG9ocjNrMw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+## 🔥 My Contribution Graph
+
+<a href="https://github.com/Abishek7952">
+  <img alt="Abishek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek7952&theme=react-dark&hide_border=true" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abishek7952&label=Profile%20Views&color=0e75b6&style=flat" alt="Abishek7952" />
+</p>
