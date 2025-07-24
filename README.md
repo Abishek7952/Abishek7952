@@ -3,7 +3,7 @@
     <td align="center" width="65%">
       
     
-  <p>
+  <p align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;AWS+Certified+Cloud+Practioner+%E2%98%81%EF%B8%8F+%7C;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
       </p>
 
@@ -12,7 +12,7 @@
       </h1>
 
      
-  <p>
+  <p align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&width=800&lines=Innovating+at+the+Intersection+of+AI,+DevOps+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions." alt="Orbitron Typing Animation">
       </p>
     
