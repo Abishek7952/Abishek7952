@@ -1,27 +1,32 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFwaHh6eGk0ZDNiMTk4Y3Zpa20wNWRhcGVsMzZkbzBjd2hzNmQyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350" />
-</p>
+<!-- Top Section with GIF on Right -->
+<table>
+  <tr>
+    <td align="left" width="65%">
+      
+      <!-- Typing Animation -->
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;Cloud+Certified+%E2%98%81%EF%B8%8F+%7C+Full+Stack+Learner;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
+      </p>
 
+      <!-- Gradient Name -->
+      <h1>
+        <span style="font-size: 48px; font-weight: bold; background: linear-gradient(to right, #F75C7E, #8A2BE2); -webkit-background-clip: text; color: transparent;">
+          👋 I'm <strong>R Abishek</strong>
+        </span>
+      </h1>
 
+      <!-- Second Typing Animation -->
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&width=800&lines=Innovating+at+the+Intersection+of+AI,+DevOps+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions." alt="Orbitron Typing Animation">
+      </p>
+    
+    </td>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;Cloud+Certified+%E2%98%81%EF%B8%8F+%7C+Full+Stack+Learner;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
-</p>
-
-<!-- Big Animated Gradient Name -->
-<h1 align="center">
-  <span style=" font-size: 48px; font-weight: bold; background: linear-gradient(to right, #F75C7E, #8A2BE2); -webkit-background-clip: text; color: blue;">
-    👋 I'm <strong>R Abishek</strong>
-  </span>
-</h1>
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Innovating+at+the+Intersection+of+AI,+DevOps+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions.">
-</p>
+    <td align="center" width="35%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFwaHh6eGk0ZDNiMTk4Y3Zpa20wNWRhcGVsMzZkbzBjd2hzNmQyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
