@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
 </p>
+
 
 
 <!-- Typing Animation -->
