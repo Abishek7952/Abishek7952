@@ -1,3 +1,8 @@
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;Cloud+Certified+%E2%98%81%EF%B8%8F+%7C+Full+Stack+Learner;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
