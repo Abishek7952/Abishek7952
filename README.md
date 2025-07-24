@@ -1,6 +1,6 @@
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="400"/>
 </p>
 
 <!-- Typing Animation -->
