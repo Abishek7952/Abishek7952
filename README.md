@@ -4,7 +4,7 @@
       
    <div style="text-align: center;">
         <p>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+DevOps+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;AWS+Certified+Cloud+Practioner+%E2%98%81%EF%B8%8F+%7C;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=800&height=40&lines=AI+%7C+ML+%7C+DL+Engineer+%7C+Cloud+Enthusiast;Building+Smart+Real-World+Solutions;M.Tech+CS+@+VIT+Chennai+%F0%9F%93%9A;AWS+Certified+Cloud+Practioner+%E2%98%81%EF%B8%8F+%7C;Welcome+to+my+Tech+Space+%F0%9F%9A%80" alt="Typing Animation">
         </p>
 
   <h1>
@@ -12,7 +12,7 @@
         </h1>
 
   <p>
-          <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&width=800&lines=Innovating+at+the+Intersection+of+AI,+DevOps+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions." alt="Orbitron Typing Animation">
+          <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=8A2BE2&width=800&lines=Innovating+at+the+Intersection+of+AI+and+Cloud.;Fueling+Business+Analytics+with+Tech.;Creating+Impactful+Real-world+Solutions." alt="Orbitron Typing Animation">
         </p>
       </div>
 
@@ -24,52 +24,46 @@
   </tr>
 </table>
 
-
-
-
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 **Integrated M.Tech in Computer Science** @ VIT Chennai  
-- 📊 Specialization in **Business Analytics**  
+- 📊 Specialization: **Business Analytics**  
 - ☁️ **AWS Certified Cloud Practitioner (CCP)**  
-- 👨‍💼 Former **Web Development Intern** at **Creatah**  
-- 💡 Fascinated by **AI**, **Machine Learning**, and **DevOps**  
-- 🛠️ I love building scalable, cloud-native apps with real-world impact!
+- 💼 **AI Solutions Consultant** @ Kalai Vrikshya Architects  
+- 🌍 **Junior ML Engineer** @ Omdena (Bhutan Chapter)  
+- 💡 Passionate **ML–DL Engineer** building AI systems with real-world impact  
 
 ---
 
-## 🚀 Projects & Highlights
+## 🚀 Featured Projects
 
-| 💼 Project | ⚙️ Stack & Description |
+| 💼 Project | ⚙️ Stack & Focus |
 |-----------|-------------------------|
-| 🔍 **Fake Account & ID Detection** | ML + Social Media Data Analysis |
-| 🧬 **Breast Cancer Detection** | Multimodal Deep Learning + DevOps |
-| 🚦 **Vehicle Detection (YOLO)** | Real-Time Object Detection |
-| 🧍‍♂️🗣✍ **Parkinson’s Prediction** | DL on gait, speech, handwriting |
-| 🎙️ **Tacotron 2 TTS** | Attention-based Text-to-Speech |
-| 📄 **Resume Classifier** | ML + FastAPI + Streamlit + Docker |
-| 📈 **Stock Price Predictor** | Time Series + Deployment |
-| 💼 **Salary Predictor** | PySpark + Regression Pipeline |
-| 🔐 **Anomaly-Based IDS** | Network Intrusion Detection (ML/DL) |
+| 🧬 **Multimodal Breast Cancer Detection** | CNN + RepVGG_A0 · Histopathology + Mammogram Fusion |
+| 🗣️ **Attention-based TTS (Tacotron2 + HiFi-GAN)** | Real-time neural text-to-speech with attention |
+| 🧩 **Multimodal Parkinson’s Detection** | CNN-LSTM · ResNet50 · Mel-Spectrogram CNN |
+| 📈 **Stock Market Forecasting** | ARIMA + Linear Regression · Flask + React Deployment |
+| 🧪 **Breast Cancer Prediction (Cloud)** | Flask + React · Docker + Jenkins (CI/CD) |
+| 🔐 **Anomaly-Based IDS** | ML/DL for cybersecurity anomaly detection |
+| 📂 **Resume Classifier** | FastAPI + Streamlit + Docker · Deployed on Render |
+| 🌐 **Graph-based Drug Repurposing** | Neo4j · Graph Rep Learning · Drug–Disease Interaction |
+| 📊 **Graph-based Resume Matcher** | Knowledge Graph · Embeddings · Candidate–Job Matching |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,react,flask,tensorflow,pytorch,sklearn,docker,jenkins,aws,git,github,vscode,pyspark,mysql" />
 </p>
 
-- 🧑‍💻 **Languages**: Python, Java, C, SQL, Bash  
-- 🔎 **ML/DL**: TensorFlow, PyTorch, Scikit-learn, YOLO  
-- 🌐 **Web**: FastAPI, Flask, Streamlit  
-- 🐳 **DevOps**: Docker, Jenkins, GitHub Actions  
-- 🧠 **Big Data**: PySpark  
-- ☁️ **Cloud**: AWS (CCP)  
-- 🧰 **Tools**: Git, VS Code, Colab, Render
+- **Languages**: Python · Java · JavaScript · C · SQL  
+- **ML/DL**: TensorFlow · PyTorch · Scikit-learn · Keras  
+- **Web & APIs**: FastAPI · Flask · React.js · Streamlit  
+- **Cloud**: AWS (CCP Certified)  
+- **Tools**: Docker · Jenkins · GitHub Actions · PySpark · Git · VS Code  
 
 ---
 
@@ -86,7 +80,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek7952&theme=react-dark&area=true&hide_border=true" />
@@ -105,15 +99,18 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abishekr316"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abishek316"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abishekravichandiran7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/abishek__r?igsh=MWwzM284MG9ocjNrMw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/abishek__r"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/919841283366"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
+
 <h2 align="center">
   <img src="https://img.shields.io/badge/-I'm R Abishek-%23F75C7E?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="R Abishek" />
 </h2>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abishek7952&label=Profile+Views&color=brightgreen&style=flat-square" />
 </p>
